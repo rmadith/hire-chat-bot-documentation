@@ -1,6 +1,6 @@
 ![logo](https://cdn.iconscout.com/icon/premium/png-256-thumb/hiring-employee-2034807-1715112.png)
 
-# Hire-Bot <small>0.0.1</small>
+# HirBot <small>0.0.1</small>
 
 > Voice Bot that takes interview for you!
 
