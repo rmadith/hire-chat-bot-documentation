@@ -1,18 +1,10 @@
 # Quick start
 
-It is recommended to install `docsify-cli` globally, which helps initializing and previewing the website locally.
+Before you start, it is recommended that you have a GCP account with a proper Billing Account. Usually no SDKs have to be downloaded and the entire process is done in the Browser itself. But it is very much possible to implement it locally as long as the API keys match and all requests go through an internet connection
 
-```bash
-npm i docsify-cli -g
-```
+## Create a Project
 
-## Initialize
-
-If you want to write the documentation in the `./docs` subdirectory, you can use the `init` command.
-
-```bash
-docsify init ./docs
-```
+Google offers an entry level of 25 Projects. I'm on my 23rd one (Thank God :smiley:) 
 
 ## Writing content
 
