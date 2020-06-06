@@ -2,7 +2,7 @@
 
 # Hire-Bot <small>0.0.1</small>
 
-> A magical Hiring Bot tailored for your Experience
+> Voice Bot that takes interview for you!
 
 - Uses Dialogflow and Firebase
 - Almost Free. Just Storage Space ;)
