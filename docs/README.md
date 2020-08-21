@@ -1,10 +1,10 @@
-## docsify
+## HirBot
 
-> A magical documentation site generator.
+> A magical voicebot that cuts down your interview process
 
 ## What it is
 
-docsify generates your documentation website on the fly. Unlike GitBook, it does not generate static html files. Instead, it smartly loads and parses your Markdown files and displays them as a website. To start using it, all you need to do is create an `index.html` and [deploy it on GitHub Pages](deploy.md).
+Hirbot is an integration of Dialogflow, Google Sheets and Twillio to make a simple IVR system that can call people who apply and have a personalised/tailored experience at no expensive human cost. We can also use Firebase as an intermediate step to make the entire process more streamlined. To deploy and use this yourself, use this documentation and this [GitHub Repo](https://github.com/muthu-beep/hirbot)
 
 See the [Quick start](quickstart.md) guide for more details.
 
