@@ -8,5 +8,5 @@
 - Almost Free. Just Storage Space ;)
 - Highly Customizable 
 
-[GitHub](https://github.com/docsifyjs/docsify/)
+[GitHub](https://github.com/muthu-beep/hire-chat-bot-documentation/)
 [Getting Started](#docsify)
